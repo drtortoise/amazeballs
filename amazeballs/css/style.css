@@ -48,6 +48,9 @@ a {
 a:hover, a:active, a:focus {
 	color:#fefea5;
 }
+.episode {
+	font-size: 3.75em;
+}
 #mc_embed_signup {
 	float: right;
 	position: relative;
