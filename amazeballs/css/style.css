@@ -51,6 +51,9 @@ a:hover, a:active, a:focus {
 .episode {
 	font-size: 3.75em;
 }
+.old {
+	font-size:2em;
+}
 #mc_embed_signup {
 	float: right;
 	position: relative;
