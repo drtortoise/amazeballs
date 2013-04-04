@@ -39,6 +39,9 @@ p {
 .episode {
 	font-size: 3.75em;
 }
+.old {
+	font-size:2em;
+}
 ul {
 	list-style-type:none;
 	color:#c87be5;
