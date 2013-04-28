@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>AMAZEBALLS</title>
+  <itunes:author>@ntlk and @hyper_linda</itunes:author>
+  <link>http://amazeballs.be/</link>
+  <itunes:subtitle>podcast of @ntlk and @hyper_linda</itunes:subtitle>
+  <itunes:summary>Codez, Internet of Things, ALL THE BUZZWORDS!!!!!1!!1!one</itunes:summary>
+  <language>en-us</language>
+  <copyright>2013 by @ntlk and @hyper_linda</copyright>
+  <itunes:owner>
+      <itunes:name>@ntlk and @hyper_linda</itunes:name>
+      <itunes:email></itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://s3-eu-west-1.amazonaws.com/amazeballs/amazeballsbesquare.jpg" />
+  <itunes:category text="Technology">
+      <itunes:category text="Technology - Podcasting"/>
+  </itunes:category>
+  <item>
+      <title>#002</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>AMAZ ED BALLS</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23002.m4a" length="" type="audio/x-m4a" />
+      <pubDate>28 Apr 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>54:38</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet</itunes:keywords>
+  </item>
+  <item>
+      <title>#001</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>OMG the first episode</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3.amazonaws.com/episodez/AMAZEBALLS%23001.mp3" length="" type="audio/mpeg" />
+      <pubDate>31 Mar 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>36:52</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet</itunes:keywords>
+  </item>
+  <item>
+      <title>#000</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Pilot episode where it all got started</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23000.mp3" length="" type="audio/mpeg" />
+      <pubDate>3 Mar 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>32:44</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet</itunes:keywords>
+  </item>
+</channel>
+</rss>
