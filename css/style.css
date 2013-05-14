@@ -6,7 +6,7 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: Courier, "Courier New", monospace; 
+	font-family: Courier, "Courier New", monospace;
 	font-size:62.5%;
 	text-align:center;
 	text-shadow: black 0.1em 0.1em 0.2em;
@@ -75,7 +75,9 @@ form {
 }
 label {
 	display:none;
-	
+}
+.title {
+	font-size: 250%;
 }
 #mce-EMAIL {
 	width:80%;
