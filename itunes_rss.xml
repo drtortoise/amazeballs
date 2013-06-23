@@ -17,6 +17,20 @@
       <itunes:category text="Technology - Podcasting"/>
   </itunes:category>
   <item>
+      <title>#004</title>
+      <itunes:author>@ntlk and @hyper_linda and also @tef</itunes:author>
+      <itunes:subtitle>Special guest: @tef &lt;3</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23004.m4a" length="" type="audio/x-m4a" />
+      <pubDate>23 Jun 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>1:20:50</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet, boats, boat lift, codeclub, tef</itunes:keywords>
+  </item>
+  <item>
       <title>#003</title>
       <itunes:author>@ntlk and @hyper_linda</itunes:author>
       <itunes:subtitle>ALL THE BOATS!!1!one</itunes:subtitle>
