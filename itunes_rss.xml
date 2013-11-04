@@ -17,6 +17,20 @@
       <itunes:category text="Technology - Podcasting"/>
   </itunes:category>
   <item>
+      <title>#007</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Surprise audiobook</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23007.m4a" length="" type="audio/x-m4a" />
+      <pubDate>04 Nov 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>01:05:50</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, codeclub, ships, captain phillips, pirates, democracy</itunes:keywords>
+  </item>
+  <item>
       <title>#006</title>
       <itunes:author>@ntlk and @hyper_linda</itunes:author>
       <itunes:subtitle>Depression as a service</itunes:subtitle>
