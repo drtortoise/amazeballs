@@ -17,6 +17,20 @@
       <itunes:category text="Technology - Podcasting"/>
   </itunes:category>
   <item>
+      <title>#009</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Off by one</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23009.m4a" length="" type="audio/x-m4a" />
+      <pubDate>10 Jul 2014</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>00:39:35</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, google, devart, off by one errors</itunes:keywords>
+  </item>
+  <item>
       <title>#008</title>
       <itunes:author>@ntlk and @hyper_linda</itunes:author>
       <itunes:subtitle>Back once again</itunes:subtitle>
