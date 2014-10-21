@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>AMAZEBALLS</title>
+  <itunes:author>@ntlk and @hyper_linda</itunes:author>
+  <link>http://amazeballs.be/</link>
+  <itunes:subtitle>podcast of @ntlk and @hyper_linda</itunes:subtitle>
+  <itunes:summary>Codez, Internet of Things, ALL THE BUZZWORDS!!!!!1!!1!one</itunes:summary>
+  <language>en-us</language>
+  <copyright>2013 by @ntlk and @hyper_linda</copyright>
+  <itunes:owner>
+      <itunes:name>@ntlk and @hyper_linda</itunes:name>
+      <itunes:email></itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://s3-eu-west-1.amazonaws.com/amazeballs/amazeballsbesquare.jpg" />
+  <itunes:category text="Technology">
+      <itunes:category text="Technology - Podcasting"/>
+  </itunes:category>
+  <item>
+      <title>AmazeballsX</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Mostly Papert</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AmazeballsX.m4a" length="" type="audio/x-m4a" />
+      <pubDate>21 Oct 2014</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>00:50:05</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, google, papert, education, games</itunes:keywords>
+  </item>
+  <item>
+      <title>#009</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Off by one</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23009.m4a" length="" type="audio/x-m4a" />
+      <pubDate>10 Jul 2014</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>00:39:35</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, google, devart, off by one errors</itunes:keywords>
+  </item>
+  <item>
+      <title>#008</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Back once again</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23008.m4a" length="" type="audio/x-m4a" />
+      <pubDate>02 Apr 2014</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>00:42:10</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, codeclub, ships, democracy, bitcoin</itunes:keywords>
+  </item>
+  <item>
+      <title>#007</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Surprise audiobook</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23007.m4a" length="" type="audio/x-m4a" />
+      <pubDate>04 Nov 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>01:05:50</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, codeclub, ships, captain phillips, pirates, democracy</itunes:keywords>
+  </item>
+  <item>
+      <title>#006</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Depression as a service</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23006.m4a" length="" type="audio/x-m4a" />
+      <pubDate>16 Oct 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>01:19:00</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet, tech, codeclub</itunes:keywords>
+  </item>
+  <item>
+      <title>#005</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>The one about the boat lift</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23005.m4a" length="" type="audio/x-m4a" />
+      <pubDate>28 Aug 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>37:07</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet, boats, boat lift, codeclub, ohm, snapchat</itunes:keywords>
+  </item>
+  <item>
+      <title>#004</title>
+      <itunes:author>@ntlk and @hyper_linda and also @tef</itunes:author>
+      <itunes:subtitle>Special guest: @tef &lt;3</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23004.m4a" length="" type="audio/x-m4a" />
+      <pubDate>23 Jun 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>1:20:50</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet, boats, boat lift, codeclub, tef</itunes:keywords>
+  </item>
+  <item>
+      <title>#003</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>ALL THE BOATS!!1!one</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23003.m4a" length="" type="audio/x-m4a" />
+      <pubDate>16 Jun 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>34:21</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet, boats, boat lift, codeclub</itunes:keywords>
+  </item>
+  <item>
+      <title>#002</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>AMAZ ED BALLS</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23002.m4a" length="" type="audio/x-m4a" />
+      <pubDate>28 Apr 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>54:38</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet</itunes:keywords>
+  </item>
+  <item>
+      <title>#001</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>OMG the first episode</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3.amazonaws.com/episodez/AMAZEBALLS%23001.mp3" length="" type="audio/mpeg" />
+      <pubDate>31 Mar 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>36:52</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet</itunes:keywords>
+  </item>
+  <item>
+      <title>#000</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Pilot episode where it all got started</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23000.mp3" length="" type="audio/mpeg" />
+      <pubDate>3 Mar 2013</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>32:44</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>space, cats, internet</itunes:keywords>
+  </item>
+</channel>
+</rss>
