@@ -17,6 +17,20 @@
       <itunes:category text="Technology - Podcasting"/>
   </itunes:category>
   <item>
+      <title>AmazeballsX</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Mostly Papert</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AmazeballsX.m4a" length="" type="audio/x-m4a" />
+      <pubDate>21 Oct 2014</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>00:50:05</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, tech, google, papert, education, games</itunes:keywords>
+  </item>
+  <item>
       <title>#009</title>
       <itunes:author>@ntlk and @hyper_linda</itunes:author>
       <itunes:subtitle>Off by one</itunes:subtitle>
