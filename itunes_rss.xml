@@ -17,6 +17,20 @@
       <itunes:category text="Technology - Podcasting"/>
   </itunes:category>
   <item>
+      <title>#011</title>
+      <itunes:author>@ntlk and @hyper_linda</itunes:author>
+      <itunes:subtitle>Art and internet of things things</itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <enclosure url="https://s3-eu-west-1.amazonaws.com/amazeballs/AMAZEBALLS%23011.m4a" length="" type="audio/x-m4a" />
+      <pubDate>13 Nov 2014</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Technology - Podcasting"/>
+      </itunes:category>
+      <itunes:duration>00:46:50</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>internet, wearables, virtual assistants, art, landings on comets</itunes:keywords>
+  </item>
+  <item>
       <title>AmazeballsX</title>
       <itunes:author>@ntlk and @hyper_linda</itunes:author>
       <itunes:subtitle>Mostly Papert</itunes:subtitle>
